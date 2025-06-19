@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=lembo2003&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Flutter%20Intern%20|%20Bug%20Creator%20Extraordinaire&descAlignY=51&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lembo&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Flutter%20Intern%20|%20Bug%20Creator%20Extraordinaire&descAlignY=51&descAlign=62" width="100%" />
 </div>
 
 # 👋 Who am I?
