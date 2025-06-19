@@ -70,7 +70,7 @@ Hey there, I'm lembo2003, currently living that **intern life** in Flutter devel
   <a href="https://www.youtube.com/@lembocsgo" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="https://twitter.com/lembocsgo" target="_blank">
+  <a href="https://twitter.com/lembocs" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="mailto:lembo0909@gmail.com" target="_blank">
